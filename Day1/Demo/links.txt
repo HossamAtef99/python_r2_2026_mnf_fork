@@ -43,4 +43,9 @@ updates ====> create files , updates
         git status (add , commit)
          git add .
          git commit -m "Msg"
+         ----------------------> git commit -am "Msg"
+         ----------------------> git commit --amend 
          git push origin master
+
+
+

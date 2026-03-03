@@ -85,4 +85,20 @@ Updates
                                                                     -----> origin : variable 
                                                                     -----> master :branch  
 
-                                                            
+
+                                                                       <=================================
+                                                                       git pull origin master
+                                                                       git push origin master
+                                                                       (
+
+                                                                        team ====> nourhan , ahmed
+                                                                        norhan=====>Upload
+                                                                        ahmed ====> pull master ====> push  (Upload)
+                                                                        nourhan ===> pull    MASTER  ===> PUSH
+
+                                                                       )
+
+                                                                       ================= COMMIT AMMEND ========
+                                                                       save last changes --> last commit 
+                                                                             pull commit 
+                                                                             push 
