@@ -2,6 +2,11 @@
 
 ========> Git Stages
 
+---> initialze git : git init
+check status : git status
+add file : git add file_name (new file || new updates on this file)
+new commit : git commit -m "msg" 
+
 
 
 
