@@ -28,9 +28,20 @@ e775629 docs:add lec1 notes in github course
 
 
 
+                   *************** Git checkout (ctrl+z) ***************** 
+                              stages file ===> file addded 
+                                 git checkout  file_name   ===> remove updates that not added
+                                 git checkout  file_name file2_name 
+
+                                 git checkout : list files ====> choose file  ===> remove updates that not added
 
 
+********************************************** Remove commit ********************
+   remove commit + remove changes  :    git reset --hard Head~  ===> ~ : number of commits that you want to remove
+   remove commit + save changes    :    git reset --soft Head~  ===> ~ : number of commits that you want to remove
 
+
+*******************************************************************************
 
 
 
@@ -57,4 +68,11 @@ Updates
                                              git commit -am "msg"
                                               -a : add   || -m : msg
    
-                                                                             ==============> 
+                     <========================
+                        git reset file_name
+                        git reset file1_name  file2_name
+                        git reset : reset all added files
+
+
+
+                                                            
