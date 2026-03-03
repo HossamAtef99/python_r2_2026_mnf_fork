@@ -68,3 +68,13 @@ clone from repo : git clone repolink
             index ----> path .git
 
             ------------------->deploy ====> updates ---> yes
+
+
+========================> README files  : All Details about project
+README.md ==========> file (Markdown language) 
+   =================> Distription of project
+   =================> Tools
+   =================> Article
+   =================> Run
+markUP : tag ===> text
+Markdown : text ==>styletag
