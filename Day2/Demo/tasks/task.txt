@@ -1,0 +1,7 @@
+===========> om my repo
+tasks --> index.html
+   ===? evey one create p---> Name
+   ===> fork from my repo --> add any file ==> synchrozie with my repo
+   ===> create organization on your account : add 5 members ===> (create repo on this organization add 5 membesrs  ==> role)
+   ====> add every one on origanization --> role ===> create take same role 
+   +++++ add on this organization + repo  
